@@ -1,3 +1,20 @@
+# About @rikhoffbauer
+
+## tl;dr
+
+- Passionate about technology, especially software
+- Started programming at 8 years old, first web applications (full stack) at 12
+- Interested in many things, from web development to AI and reverse engineering
+- Weakness for:
+  - strictly typed languages
+  - well organized projects
+  - choosing the right level of abstraction
+  - standardization
+  - configuration as code
+  - ...more...
+
+## Bio
+
 As long as I can remember I've been passionate about technology, software in particular.
 
 I started "programming" when I was 8 (`HTML`), when I was 12 I built my first web applications (some in classic `ASP` (not `.net`), others using `PHP`). 
@@ -16,8 +33,9 @@ I also spend a lot of time reverse engineering software.
 
 Whether its implementing a non-trivial behaviour, decompiling and disassembling `jar`s, decompiling `Mach-O` binaries, inspecting network traffic using `wireshark` or proxying traffic through a tool like `nc` (netcat) or `whistle`. If I want something I'll go to the end of the world to find a way or find out its impossible; I'm extremely persistent; not prone to give up. I do tend to recognize when things are technically impossible or not worth the effort.
 
-I have a weakness for:
+## Especially love
 
+- Strictly typed languages
 - Having a deep/thorough understanding of what im dealing with
 - Well organized/structured applications
 - Modular systems
