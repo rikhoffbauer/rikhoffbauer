@@ -1,7 +1,5 @@
 # About @rikhoffbauer
 
-## tl;dr
-
 - Passionate about technology, especially software
 - Interested in many things, from web development to AI and reverse engineering
 - Weakness for:
